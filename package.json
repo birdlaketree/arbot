@@ -1,0 +1,24 @@
+{
+  "name": "arbot",
+  "version": "1.0.0",
+  "description": "arb bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birdlaketree/arbot.git"
+  },
+  "keywords": [
+    "arb",
+    "bot",
+    "sol"
+  ],
+  "author": "Vedran Kolac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birdlaketree/arbot/issues"
+  },
+  "homepage": "https://github.com/birdlaketree/arbot#readme"
+}
